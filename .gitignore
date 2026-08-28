@@ -83,6 +83,7 @@ __pycache__/
 *.log
 *.bak
 *.swp
+*tmp_data.txt
 
 # Системные файлы
 Thumbs.db  # Windows
